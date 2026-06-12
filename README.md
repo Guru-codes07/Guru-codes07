@@ -11,7 +11,7 @@
   <a href="https://discordapp.com/users/1447556861589979319" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
   </a>
-  <a href="https://2020gurup@gmail.com" target="_blank">
+  <a href="mailto:2020gurup@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
 </div>
@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">- 🔭  I’m currently working on Linux and exploring system-level programming.<br>- 📚 I'm currently learning C++, Data Structures & Algorithms, and Computer Science fundamentals.<br>- ⚡ In my free time, I explore open-source projects, customize my Linux setup.</p>
+<p align="left">- 🔭  I'm currently working on Linux and exploring system-level programming.<br>- 📚 I'm currently learning C++, Data Structures & Algorithms, and Computer Science fundamentals.<br>- ⚡ In my free time, I explore open-source projects, customize my Linux setup.</p>
 
 ###
 
@@ -73,10 +73,12 @@
 ###
 
 <div align="left">
-   <a href="https://www.linkedin.com/in/guru-prasad-mishra" target="_blank">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-      <a href="https://discordapp.com/users/1447556861589979319" target="_blank">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <a href="https://www.linkedin.com/in/guru-prasad-mishra" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://discordapp.com/users/1447556861589979319" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
   <a href="https://wa.me/916369680816" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
   </a>
@@ -87,9 +89,6 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
   </a>
 </div>
-
-###
-
 
 ###
 
@@ -105,16 +104,16 @@
 
 ###
 
+<h3 align="center">🎵 Recently Played on Spotify</h3>
+
 <div align="center">
   <a href="https://open.spotify.com/user/31kinwazk4he2gp4v77f2vigylkq">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31kinwazk4he2gp4v77f2vigylkq&count=5&unique=false" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31kinwazk4he2gp4v77f2vigylkq&count=5&unique=true" alt="Spotify recently played" />
   </a>
 </div>
 
 ###
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
-
-###
