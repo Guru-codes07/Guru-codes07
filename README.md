@@ -88,7 +88,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Guru-codes07/Guru-codes07/snake-output/snake.svg" alt="Snake animation" />
 
 ###
 
